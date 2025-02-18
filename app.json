@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "amour-dating-app",
+    "slug": "amour-dating-app",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-font"
+    ],
+    "android": {
+      "package": "com.anonymous.amourdatingapp"
+    }
+  }
+}
